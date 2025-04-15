@@ -106,14 +106,12 @@
 }
 
 .kartaleva {
-    background-color: chocolate;
-    hight: 1250px;
+    background-color: chocolate; 
     width: 400px;
 }
 
 .kartaprava {
     background-color: rgb(69, 51, 87);
-    hight: 5000px;
     width: 400px;
 }
 
